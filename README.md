@@ -23,7 +23,7 @@ export URL="THE_GOOGLE_REVIEW_URL"
 ```
 export REVIEWER_NAME="THE_PARTITIONING_GOOGLE_REVIEWERS_NAME"
 ```
-If there is no comment for the reviewer, enter an empty string `export REVIEWER_COMMENT=`
+If there is no comment for the reviewer, enter an empty string `export REVIEWER_COMMENT=""`
 ```
 export REVIEWER_COMMENT="THE_PARTITIONING_GOOGLE_REVIEWERS_COMMENT"
 ```
